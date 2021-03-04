@@ -1,0 +1,16 @@
+{
+    "name": "ralf/ph-prframework",
+    "authors": [
+        {
+            "name": "ralfhei"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\":"./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.2"
+    }
+}
