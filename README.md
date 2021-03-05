@@ -1,5 +1,4 @@
 # php_oop
-# Foobar
 
 [PHP kodutöö](https://oop.ta19heinsoo.itmajakas.ee/)
 
